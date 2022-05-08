@@ -1,3 +1,4 @@
+import 'package:ecommerce/maps/animated_markers_map.dart';
 import 'package:ecommerce/screens/landing_page.dart';
 
 import 'package:flutter/material.dart';
@@ -25,3 +26,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+//LandingPage

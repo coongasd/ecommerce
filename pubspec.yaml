@@ -36,8 +36,12 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_image_slideshow: ^0.1.2
+  flutter_map: ^0.14.0
   google_fonts: ^2.3.1
   intl: ^0.17.0
+  latlong2: ^0.8.1
+  stream_chat_flutter: ^4.1.0
+  stream_chat_localizations: ^3.1.0
 
 dev_dependencies:
   flutter_lints: ^1.0.0
@@ -57,6 +61,18 @@ flutter:
   assets:
     - assets/images/
     - assets/slider/
+    - assets/animated_marker_map/marker.png
+    - assets/animated_marker_map/smartphone.png
+    - assets/animated_marker_map/iphone.png
+    - assets/animated_marker_map/xiaomi.png
+    - assets/animated_marker_map/oppo.png
+    - assets/animated_marker_map/samsung.png
+    - assets/animated_marker_map/vivo.png
+    - assets/animated_marker_map/vsmart.png
+    - assets/animated_marker_map/huawei.png
+    - assets/animated_marker_map/lg.png
+    - assets/animated_marker_map/lenovo.png
+    - assets/animated_marker_map/sony.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
   # For details regarding adding assets from package dependencies, see
