@@ -98,7 +98,6 @@ class _CartPageState extends State<CartPage> {
                                           "price": price,
                                           "name": data["name"]
                                         });
-                                        totalProduct();
 
                                         String priceAfterFormat =
                                             intl.NumberFormat.currency(
